@@ -5,8 +5,8 @@
   "templateSha": "0c27d72b9b07121f41bd92c031f360428207ddab",
   "customALGoFiles": {
     "filesToUpdate": [{
-      "sourcePath": ".github",
-      "filter": "NewBCContainer.ps1",
+      "sourcePath": "CommonScripts",
+      "filter": "*.ps1",
       "destinationPath": ".AL-Go",
       "perProject": true
     }]
