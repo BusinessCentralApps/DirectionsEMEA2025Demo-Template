@@ -3,5 +3,6 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@privatePreview/customALGoFiles",
   "templateSha": "0c27d72b9b07121f41bd92c031f360428207ddab",
-  "doesntMatter": "it does"
+  "doesntMatter": "it does",
+  "PullRequestTrigger": "pull_request"
 }
